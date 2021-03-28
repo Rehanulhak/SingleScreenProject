@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SingleScreenProject</string>
+    <string name="banner">Banner Photo</string>
+    <string name="business_name">Pizza Mania</string>
+    <string name="delivery_timing">Delivery from 12pm to 2am</string>
+    <string name="main_content">We make the best Pizza in town with dine in and delivery in Islamabad and Rawalpindi. To place an order call us at 0900-78601.</string>
+    <string name="feedback">For feedback email us at PizzaMania@pizzamaniasupport.com</string>
+</resources>
